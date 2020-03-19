@@ -28,7 +28,7 @@
               MenuItem(name="Honor" to="Honor") 获奖情况
               MenuItem(name="ExamCertification" to="ExamCertification") 成绩记录
               MenuItem(name="contact" to="Reserved") 联系方式
-              MenuItem(name="Milestone" to="Milestone") 里程碑
+              MenuItem(name="Milestone" to="Milestone") 
             Submenu(name="skill")
               template(slot="title")
                 Icon(type="md-school")

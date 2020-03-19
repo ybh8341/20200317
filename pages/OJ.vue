@@ -1,4 +1,4 @@
-<template lang="pug">
+//<template lang="pug">
 div
   Table(:data="tableData", :columns="tableColumns", index, stripe, show-header)
   div(:style="{margin: '10px', overflow: 'hidden'}")

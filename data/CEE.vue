@@ -36,39 +36,39 @@
   div
     i-circle(:percent="69", dashboard )
       div(class="demo-Circle-custom")
-        h1 104
+        h1 102
         p 语文
       span
         | 满分
         i 150
     i-circle(:percent="83", dashboard )
       div(class="demo-Circle-custom")
-        h1 124
+        h1 110
         p 数学
       span
         | 满分
         i 150
     i-circle(:percent="85", dashboard )
       div(class="demo-Circle-custom")
-        h1 128
+        h1 112
         p 英语
       span
         | 满分
         i 150
     i-circle(:percent="91", dashboard )
       div(class="demo-Circle-custom")
-        h1 136
-        p 化学
+        h1 235
+        p 理综
       span
         | 满分
         i 150
     i-circle(:percent="82", dashboard, stroke-color="#5cb85c" )
       div(class="demo-Circle-custom")
-        h1 492
+        h1 550
         p 总分
       span
         | 满分
-        i 600
+        i 750
 </template>
 <script>
 export default {

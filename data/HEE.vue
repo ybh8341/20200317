@@ -36,53 +36,53 @@
   div
     i-circle(:percent="90", dashboard )
       div(class="demo-Circle-custom")
-        h1 135
+        h1 106
         p 语文
       span
         | 满分
-        i 150
+        i 120
     i-circle(:percent="97", dashboard )
       div(class="demo-Circle-custom")
-        h1 145
+        h1 110
         p 数学
       span
         | 满分
-        i 150
+        i 120
     i-circle(:percent="96", dashboard )
       div(class="demo-Circle-custom")
-        h1 143.5
+        h1 118
         p 英语
       span
         | 满分
-        i 150
+        i 120
     i-circle(:percent="94", dashboard )
       div(class="demo-Circle-custom")
-        h1 85
+        h1 95
         p 物理
       span
         | 满分
-        i 90
+        i 100
     i-circle(:percent="93", dashboard )
       div(class="demo-Circle-custom")
-        h1 56
+        h1 96
         p 化学
       span
         | 满分
-        i 60
+        i 100
     i-circle(:percent="93", dashboard )
       div(class="demo-Circle-custom")
-        h1 28
-        p 体育
+        h1 95
+        p 政治
       span
         | 满分
-        i 30
+        i 100
     i-circle(:percent="94", dashboard, stroke-color="#5cb85c" )
       div(class="demo-Circle-custom")
-        h1 592.5
+        h1 610
         p 总分
       span
         | 满分
-        i 630
+        i 660
 </template>
 <script>
 export default {

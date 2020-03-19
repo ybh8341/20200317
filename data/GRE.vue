@@ -1,4 +1,4 @@
-<style scoped lang="less">
+//<style scoped lang="less">
   .demo-Circle-custom{
     & h1{
       color: #3f414d;

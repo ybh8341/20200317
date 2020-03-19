@@ -18,20 +18,20 @@
   div
     Timeline(pending)
       TimelineItem
-        p(class="keyPoint") 华东师范大学
-        p(class="content") 自 2016 年 09 月至今
+        p(class="keyPoint") 西南大学
+        p(class="content") 自 2008 年 09 月 至 2015 年 6 月
       TimelineItem
-        p(class="title") 被 104华东师范大学 80计算机科学与技术 录取
-        p(class="content") 2016 年 07 月 25 日
+        p(class="title") 新华中学
+        p(class="content") 2005 年 09 月 至 2008 年 06 月
       TimelineItem
-        p(class="keyPoint") 上海市市北中学
-        p(class="content") 自 2013 年 09 月至 2016 年 06 月
+        p(class="keyPoint") 新华中学
+        p(class="content") 自 2002 年 09 月 至 2005 年 06 月
       TimelineItem
-        p(class="title") 零志愿被上海市市北中学录取
-        p(class="content") 2013 年 01 月
+        p(class="title") 小学
+        p(class="content") 1996 年 9 月 至 2002 年 06 月
       TimelineItem
-        p(class="keyPoint") 上海田家炳中学
-        p(class="content") 自 2011 年 09 月至 2013 年 06 月
+        p(class="keyPoint") 幼儿园
+        p(class="content") 自 不详 月至 1996 年 06 月
 </template>
 
 <script>

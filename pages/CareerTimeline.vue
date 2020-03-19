@@ -2,8 +2,8 @@
   div
     Timeline(pending)
       TimelineItem
-        p(class="keyPoint") 微软
-        p(class="title") C+AI Summer Intern 于上海紫竹高新技术开发区
+        p(class="keyPoint") 
+        p(class="title") 
         p(class="content") 自 2019 年 07 月 01 日至 2019 年 09 月 30 日
 </template>
 
