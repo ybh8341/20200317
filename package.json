@@ -20,7 +20,7 @@
     "iview": "^3.1.5",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "nuxt-matomo": "^1.2.3",
     "pug": "^2.0.4",
